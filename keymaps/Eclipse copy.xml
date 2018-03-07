@@ -12,9 +12,13 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="CopyPaths" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="GotoLine" />
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
@@ -38,6 +42,7 @@
     <keyboard-shortcut first-keystroke="shift alt space" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
