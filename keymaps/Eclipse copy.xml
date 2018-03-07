@@ -15,6 +15,9 @@
   <action id="CopyPaths" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -25,13 +28,16 @@
   <action id="MoveStatementUp" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift alt r" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ShowContent" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
   <action id="Vcs.Push" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
