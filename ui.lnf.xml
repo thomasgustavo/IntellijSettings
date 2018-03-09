@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="100000" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
