@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ServiceSpec.groovy" />
+    <option name="FILE_MASK" value="*Service.groovy" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,8 +16,8 @@
       <mask>*.mxml</mask>
       <mask>*Controller.groovy</mask>
       <mask>*.yml</mask>
-      <mask>*Service.groovy</mask>
       <mask>*ServiceSpec.groovy</mask>
+      <mask>*Service.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
