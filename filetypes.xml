@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="EcommerceVoucher-droptable-ddl.sql" type="PLAIN_TEXT" />
       <mapping ext="gsp" type="PLAIN_TEXT" />
+      <mapping pattern="add-column-BottlerId-ddl" type="SQL" />
     </extensionMap>
   </component>
 </application>
