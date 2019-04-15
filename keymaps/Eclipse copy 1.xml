@@ -1,0 +1,11 @@
+<keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="GotoAction" />
+</keymap>
