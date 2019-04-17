@@ -25,6 +25,7 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Push" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
