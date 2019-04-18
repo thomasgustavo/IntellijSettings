@@ -6,6 +6,19 @@
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
