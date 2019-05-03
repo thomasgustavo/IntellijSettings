@@ -19,8 +19,8 @@
     <mask>UrlMappings.groovy</mask>
     <mask>*Interceptor.groovy</mask>
     <mask>*Controller.groovy</mask>
-    <mask>*sql</mask>
     <mask>*gradle</mask>
+    <mask>*sql</mask>
     <mask>*yml</mask>
   </component>
 </application>
