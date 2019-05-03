@@ -22,5 +22,6 @@
     <mask>*gradle</mask>
     <mask>*sql</mask>
     <mask>*yml</mask>
+    <mask>*Dev*</mask>
   </component>
 </application>
