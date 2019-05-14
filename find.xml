@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,8 +23,8 @@
     <mask>*Interceptor.groovy</mask>
     <mask>*Controller.groovy</mask>
     <mask>*gradle</mask>
-    <mask>*sql</mask>
     <mask>*yml</mask>
     <mask>*Dev*</mask>
+    <mask>*sql</mask>
   </component>
 </application>
