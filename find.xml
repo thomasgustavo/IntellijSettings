@@ -18,12 +18,12 @@
     <mask>*.groovy</mask>
     <mask>UrlMappings.groovy</mask>
     <mask>*Interceptor.groovy</mask>
-    <mask>*Controller.groovy</mask>
     <mask>*gradle</mask>
     <mask>*Dev*</mask>
     <mask>*sql</mask>
     <mask>*groovy</mask>
     <mask>*yml</mask>
     <mask>*Spec.groovy</mask>
+    <mask>*Controller.groovy</mask>
   </component>
 </application>
