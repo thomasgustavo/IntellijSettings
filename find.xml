@@ -24,7 +24,7 @@
     <mask>*S</mask>
     <mask>*Spec.groovy</mask>
     <mask>*Controller.groovy</mask>
-    <mask>*yml</mask>
     <mask>*Interceptor.groovy</mask>
+    <mask>*yml</mask>
   </component>
 </application>
