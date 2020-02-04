@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +18,6 @@
     <mask>*.yml</mask>
     <mask>*.groovy</mask>
     <mask>UrlMappings.groovy</mask>
-    <mask>*gradle</mask>
     <mask>*Dev*</mask>
     <mask>*sql</mask>
     <mask>*groovy</mask>
@@ -26,5 +26,6 @@
     <mask>*Controller.groovy</mask>
     <mask>*Interceptor.groovy</mask>
     <mask>*yml</mask>
+    <mask>*gradle</mask>
   </component>
 </application>
