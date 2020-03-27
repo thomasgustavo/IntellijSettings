@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*groovy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,12 +20,12 @@
     <mask>UrlMappings.groovy</mask>
     <mask>*Dev*</mask>
     <mask>*sql</mask>
-    <mask>*groovy</mask>
     <mask>*S</mask>
     <mask>*Spec.groovy</mask>
     <mask>*Controller.groovy</mask>
     <mask>*Interceptor.groovy</mask>
     <mask>*yml</mask>
     <mask>*gradle</mask>
+    <mask>*groovy</mask>
   </component>
 </application>
